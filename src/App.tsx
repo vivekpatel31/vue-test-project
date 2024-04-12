@@ -1,4 +1,5 @@
 import { defineComponent } from "vue";
+import { SVG } from '@svgdotjs/svg.js';
 
 const Visor = defineComponent({
   name: "Visor",
